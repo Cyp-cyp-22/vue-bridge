@@ -1,21 +1,24 @@
-const express = require('express');
-const mysql = require('mysql2');
 const cors = require('cors');
+app.use(cors());
+import express from 'express';
+import mysql from 'mysql2';
+import cors from 'cors';
 const app = express();
 
-// 关键：允许所有跨域请求
+// 跨域配置：生产环境建议把*改成你的前端GitHub Pages地址，更安全
 app.use(cors({
   origin: '*',
   credentials: true
 }));
+
 app.use(express.json());
 
-// 数据库配置
+// 数据库配置：自动读取环境变量，本地开发自动 fallback 到你原来的本地配置
 const db = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: 'root123456', // 改成你自己的密码
-  database: 'bridge_dashboard'
+  host: process.env.DB_HOST || 'localhost',
+  user: process.env.DB_USER || 'root',
+  password: process.env.DB_PASSWORD || 'root123456',
+  database: process.env.DB_DATABASE || 'bridge_dashboard'
 });
 
 db.connect((err) => {
@@ -33,21 +36,18 @@ app.get('/api/bridges', (req, res) => {
     res.json(results);
   });
 });
-
 app.get('/api/roads', (req, res) => {
   db.query('SELECT * FROM roads', (err, results) => {
     if (err) return res.json({ error: err.message });
     res.json(results);
   });
 });
-
 app.get('/api/road-bridge-relations', (req, res) => {
   db.query('SELECT * FROM road_bridge_relation', (err, results) => {
     if (err) return res.json({ error: err.message });
     res.json(results);
   });
 });
-
 // 后台接口
 app.get('/api/admin/bridges', (req, res) => {
   db.query('SELECT * FROM bridges', (err, results) => {
@@ -55,7 +55,6 @@ app.get('/api/admin/bridges', (req, res) => {
     res.json(results);
   });
 });
-
 app.get('/api/admin/roads', (req, res) => {
   // 一次性获取roads和relations，组装bridgeIds
   Promise.all([
@@ -76,7 +75,6 @@ app.get('/api/admin/roads', (req, res) => {
     res.json({ error: err.message })
   })
 });
-
 // 增删改接口（保留）
 app.post('/api/admin/bridges', (req, res) => {
   const { name, dynasty, type, address, intro, lat, lng } = req.body;
@@ -86,7 +84,6 @@ app.post('/api/admin/bridges', (req, res) => {
     res.json({ message: '新增成功', id: result.insertId });
   });
 });
-
 app.put('/api/admin/bridges/:id', (req, res) => {
   const { name, dynasty, type, address, intro, lat, lng } = req.body;
   const { id } = req.params;
@@ -96,7 +93,6 @@ app.put('/api/admin/bridges/:id', (req, res) => {
     res.json({ message: '修改成功' });
   });
 });
-
 app.delete('/api/admin/bridges/:id', (req, res) => {
   const { id } = req.params;
   db.query('DELETE FROM road_bridge_relation WHERE bridge_id = ?', [id], (err) => {
@@ -107,7 +103,6 @@ app.delete('/api/admin/bridges/:id', (req, res) => {
     });
   });
 });
-
 app.post('/api/admin/roads', (req, res) => {
   const { name, period, description, start_point, end_point, length, bridgeIds } = req.body;
   const roadSql = `INSERT INTO roads (name, period, description, start_point, end_point, length) VALUES (?, ?, ?, ?, ?, ?)`;
@@ -126,11 +121,10 @@ app.post('/api/admin/roads', (req, res) => {
     }
   });
 });
-
 app.put('/api/admin/roads/:id', (req, res) => {
   const { name, period, description, start_point, end_point, length, bridgeIds } = req.body;
   const { id } = req.params;
-  const roadSql = `UPDATE roads SET name=?, period=?, description=?, start_point=?, end_point=?, length=? WHERE id=?`;
+  const roadSql = `UPDATE roads SET name=?, period=?, description=?, start_point=?, end_point, length=? WHERE id=?`;
   db.query(roadSql, [name, period, description, start_point, end_point, length, id], (err) => {
     if (err) return res.json({ error: err.message });
     db.query('DELETE FROM road_bridge_relation WHERE road_id = ?', [id], (err) => {
@@ -148,7 +142,6 @@ app.put('/api/admin/roads/:id', (req, res) => {
     });
   });
 });
-
 app.delete('/api/admin/roads/:id', (req, res) => {
   const { id } = req.params;
   db.query('DELETE FROM road_bridge_relation WHERE road_id = ?', [id], (err) => {
@@ -159,7 +152,6 @@ app.delete('/api/admin/roads/:id', (req, res) => {
     });
   });
 });
-
 // 前端Home页需要的统一数据接口
 app.get('/api/bridge-data', (req, res) => {
   // 一次性获取所有需要的数据，组装成前端需要的格式
@@ -188,6 +180,8 @@ app.get('/api/bridge-data', (req, res) => {
   })
 })
 
-app.listen(3001, () => {
-  console.log('✅ 后端服务运行在 http://localhost:3001');
+// 端口配置：云平台会自动分配端口，本地默认用3001
+const PORT = process.env.PORT || 3001;
+app.listen(PORT, () => {
+  console.log(`✅ 后端服务运行在 http://localhost:${PORT}`);
 });
