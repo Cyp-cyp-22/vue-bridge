@@ -1,0 +1,2137 @@
+{
+  "bridges": [
+    {
+      "name": "赵州桥",
+      "lng": 114.7633,
+      "lat": 37.7203,
+      "dynasty": "隋",
+      "type": "拱桥",
+      "address": "河北省石家庄市赵县",
+      "intro": "世界现存最早、保存最完整的单孔敞肩石拱桥，被誉为天下第一桥。",
+      "pic": "zhaozhou.jpg"
+    },
+    {
+      "name": "卢沟桥",
+      "lng": 116.2131,
+      "lat": 39.8492,
+      "dynasty": "金",
+      "type": "拱桥",
+      "address": "北京市丰台区永定河",
+      "intro": "华北最长古代石拱桥，石雕狮子形态各异，闻名天下。",
+      "pic": "lugou.jpg"
+    },
+    {
+      "name": "洛阳桥",
+      "lng": 118.7081,
+      "lat": 24.8542,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "中国古代四大名桥之一，首创“筏型基础”种蛎固基技术。",
+      "pic": "luoyang.jpg"
+    },
+    {
+      "name": "安平桥",
+      "lng": 118.5090,
+      "lat": 24.7390,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省晋江市安海镇",
+      "intro": "天下无桥长此桥，中古时代世界最长梁式石桥。",
+      "pic": "anping.jpg"
+    },
+    {
+      "name": "泸定桥",
+      "lng": 102.2340,
+      "lat": 29.9190,
+      "dynasty": "清",
+      "type": "索桥",
+      "address": "四川省泸定县大渡河",
+      "intro": "铁索悬桥，飞夺泸定桥红色历史名桥。",
+      "pic": "luding.jpg"
+    },
+    {
+      "name": "广济桥",
+      "lng": 116.6300,
+      "lat": 23.6600,
+      "dynasty": "南宋",
+      "type": "浮桥",
+      "address": "广东潮州",
+      "intro": "世界最早启闭式桥梁，集梁桥、拱桥、浮桥于一体。",
+      "pic": "guangji.jpg"
+    },
+    {
+      "name": "宝带桥",
+      "lng": 120.6300,
+      "lat": 31.2700,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏苏州",
+      "intro": "中国现存古代最长的多孔石拱桥。",
+      "pic": "baodai.jpg"
+    },
+    {
+      "name": "五亭桥",
+      "lng": 119.4400,
+      "lat": 32.3800,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏扬州",
+      "intro": "莲花桥，造型绝美，中国桥梁建筑史上的杰作。",
+      "pic": "wuting.jpg"
+    },
+    {
+      "name": "十字桥",
+      "lng": 112.5500,
+      "lat": 37.8700,
+      "dynasty": "北宋",
+      "type": "梁桥",
+      "address": "山西太原",
+      "intro": "十字结构独特桥梁，造型精巧。",
+      "pic": "shizi.jpg"
+    },
+    {
+      "name": "程阳永济桥",
+      "lng": 109.6200,
+      "lat": 25.8700,
+      "dynasty": "民国",
+      "type": "廊桥",
+      "address": "广西三江",
+      "intro": "侗族木构廊桥典范，国家级文物。",
+      "pic": "chengyang.jpg"
+    },
+    {
+      "name": "江东桥",
+      "lng": 117.6580,
+      "lat": 24.5620,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省漳州市龙海区",
+      "intro": "原名通济桥，以巨型石梁著称，单梁重达200余吨，是中国古代桥梁建筑史上的奇迹。",
+      "pic": "jiangdong.jpg"
+    },
+    {
+      "name": "双龙桥",
+      "lng": 103.2560,
+      "lat": 24.8530,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "云南省红河州建水县",
+      "intro": "始建于清乾隆年间，全长148米，为17孔石拱桥，桥上建有三座楼阁，造型独特。",
+      "pic": "shuanglong.jpg"
+    },
+    {
+      "name": "赵州永通桥",
+      "lng": 114.7580,
+      "lat": 37.7190,
+      "dynasty": "隋",
+      "type": "拱桥",
+      "address": "河北省石家庄市赵县",
+      "intro": "与赵州桥同期建造，同为隋代工匠李春设计，为单孔敞肩石拱桥，素有“小赵州桥”之称。",
+      "pic": "yongtong.jpg"
+    },
+    {
+      "name": "苏州枫桥",
+      "lng": 120.6150,
+      "lat": 31.3280,
+      "dynasty": "唐",
+      "type": "梁桥",
+      "address": "江苏省苏州市姑苏区",
+      "intro": "始建于唐代，因张继《枫桥夜泊》诗而闻名天下，现存桥梁为明代重建。",
+      "pic": "fengqiao.jpg"
+    },
+    {
+      "name": "绍兴八字桥",
+      "lng": 120.5830,
+      "lat": 30.0120,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "浙江省绍兴市越城区",
+      "intro": "始建于南宋嘉泰年间，为石构梁桥，因桥洞呈“八字”形而得名，是古代桥梁中“水陆交通交汇”设计的典范。",
+      "pic": "bazidao.jpg"
+    },
+    {
+      "name": "太原晋祠鱼沼飞梁",
+      "lng": 112.5530,
+      "lat": 37.8720,
+      "dynasty": "北宋",
+      "type": "梁桥",
+      "address": "山西省太原市晋源区晋祠内",
+      "intro": "始建于北宋天圣年间，为十字形石梁桥，架于鱼沼之上，结构独特，是中国古代“十字桥”的杰出代表。",
+      "pic": "yuzhaofeiliang.jpg"
+    },
+    {
+      "name": "北京银锭桥",
+      "lng": 116.3980,
+      "lat": 39.9450,
+      "dynasty": "明",
+      "type": "梁桥",
+      "address": "北京市西城区什刹海景区",
+      "intro": "始建于明代，为石构梁桥，因形似银锭而得名，是什刹海标志性建筑，曾是北京“银锭观山”著名景观的核心。",
+      "pic": "yinding.jpg"
+    },
+    {
+      "name": "扬州二十四桥",
+      "lng": 119.4380,
+      "lat": 32.3750,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省扬州市邗江区瘦西湖景区",
+      "intro": "始建于隋代，现存桥梁为清代重建，为单孔石拱桥，因杜牧“二十四桥明月夜”诗而闻名。",
+      "pic": "ershisiqiao.jpg"
+    },
+    {
+      "name": "杭州断桥",
+      "lng": 120.1580,
+      "lat": 30.2580,
+      "dynasty": "明",
+      "type": "梁桥",
+      "address": "浙江省杭州市西湖区",
+      "intro": "始建于唐代，现存桥梁为明代重建，为石构梁桥，因“断桥残雪”为西湖十景之一而闻名。",
+      "pic": "duanqiao.jpg"
+    },
+    {
+      "name": "成都安顺廊桥",
+      "lng": 104.0720,
+      "lat": 30.6580,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "四川省成都市锦江区",
+      "intro": "始建于清代，为木构廊桥，横跨锦江，桥上建有廊屋，可遮阳避雨，是川西地区廊桥建筑的代表。",
+      "pic": "anshun.jpg"
+    },
+    {
+      "name": "温州泰顺泗溪东桥",
+      "lng": 119.7320,
+      "lat": 27.5580,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县泗溪镇",
+      "intro": "始建于清代乾隆年间，为木构廊桥，桥长41.7米，桥上廊屋雕刻精美，是泰顺廊桥的代表之作。",
+      "pic": "sixidong.jpg"
+    },
+    {
+      "name": "广宁桥",
+      "lng": 120.5978,
+      "lat": 30.0075,
+      "dynasty": "南宋",
+      "type": "拱桥",
+      "address": "浙江省绍兴市越城区漕河之上",
+      "intro": "绍兴地区独有形制的石拱桥，罕见的多边形拱券结构为绍兴地区特有工艺。",
+      "pic": "guangning.jpg"
+    },
+    {
+      "name": "观音桥",
+      "lng": 115.9167,
+      "lat": 29.4833,
+      "dynasty": "北宋",
+      "type": "拱桥",
+      "address": "江西省九江市庐山市栖贤谷",
+      "intro": "江西现存最早的大型石拱桥，整桥由105块花岗石以公母榫榫接而成，无灰浆砌筑。",
+      "pic": "guanyin.jpg"
+    },
+    {
+      "name": "龙脑桥",
+      "lng": 105.4167,
+      "lat": 29.1667,
+      "dynasty": "明",
+      "type": "梁桥",
+      "address": "四川省泸州市泸县九曲河上",
+      "intro": "明代石雕古桥的巅峰之作，桥墩雕刻龙、狮、象、麒麟等瑞兽，形态逼真。",
+      "pic": "longnao.jpg"
+    },
+    {
+      "name": "安澜索桥",
+      "lng": 103.6167,
+      "lat": 31.0000,
+      "dynasty": "汉",
+      "type": "索桥",
+      "address": "四川省成都市都江堰市岷江之上",
+      "intro": "中国西南索桥的典型代表，世界上最早的索桥之一，联通岷江两岸。",
+      "pic": "anlan.jpg"
+    },
+    {
+      "name": "小商桥",
+      "lng": 113.9699,
+      "lat": 33.7170,
+      "dynasty": "隋",
+      "type": "拱桥",
+      "address": "河南省漯河市临颍县小商河之上",
+      "intro": "比赵州桥还早建造20年的隋代古桥，是中国现存最早的石拱桥之一。",
+      "pic": "xiaoshang.jpg"
+    },
+    {
+      "name": "古月桥",
+      "lng": 120.0833,
+      "lat": 29.1167,
+      "dynasty": "南宋",
+      "type": "拱桥",
+      "address": "浙江省金华市义乌市赤岸镇龙溪之上",
+      "intro": "南宋嘉定年间建造的五边形石拱桥，采用纵联分节并列砌筑法。",
+      "pic": "guyue.jpg"
+    },
+    {
+      "name": "如龙桥",
+      "lng": 119.1667,
+      "lat": 27.6167,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "浙江省丽水市庆元县举水乡举溪之上",
+      "intro": "处州廊桥的核心代表，明代木拱廊桥，全桥无钉无铆。",
+      "pic": "rulong.jpg"
+    },
+    {
+      "name": "单桥",
+      "lng": 116.1167,
+      "lat": 38.1167,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "河北省沧州市献县滹沱河之上",
+      "intro": "明代民间捐资建造的九孔联拱石桥，北方联拱石桥的代表。",
+      "pic": "shanqiao.jpg"
+    },
+    {
+      "name": "弘济桥",
+      "lng": 114.7640,
+      "lat": 36.7042,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "河北省邯郸市永年区广府镇滏阳河之上",
+      "intro": "形制与赵州桥相似的明代敞肩拱桥，被誉为“冀南赵州桥”。",
+      "pic": "hongji.jpg"
+    },
+    {
+      "name": "清华彩虹桥",
+      "lng": 117.8500,
+      "lat": 29.4500,
+      "dynasty": "南宋",
+      "type": "廊桥",
+      "address": "江西省上饶市婺源县清华镇星江之上",
+      "intro": "古徽州最具代表性的廊桥之一，桥上廊屋可遮风挡雨。",
+      "pic": "caihong.jpg"
+    },
+    {
+      "name": "葛镜桥",
+      "lng": 107.5167,
+      "lat": 26.7000,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "贵州省黔南州福泉市麻哈江之上",
+      "intro": "明代葛镜独资修建的三孔石拱桥，横跨麻哈江绝壁，被誉为“西南桥梁之冠”。",
+      "pic": "gejing.jpg"
+    },
+    {
+      "name": "灞陵桥",
+      "lng": 104.2167,
+      "lat": 35.1333,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "甘肃省定西市渭源县清源河之上",
+      "intro": "中国现存唯一的纯木伸臂曲拱叠梁桥，茅以升誉其为“中国桥梁史上的活化石”。",
+      "pic": "baling.jpg"
+    },
+    {
+      "name": "七桥瓮",
+      "lng": 118.8167,
+      "lat": 32.0000,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省南京市秦淮区秦淮河之上",
+      "intro": "南京现存最大的明代石拱桥，中国唯一以“瓮”命名的古桥。",
+      "pic": "qiqiaoweng.jpg"
+    },
+    {
+      "name": "蒲塘桥",
+      "lng": 118.9952,
+      "lat": 31.5591,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省南京市溧水区蒲塘河之上",
+      "intro": "明代南京地区的大型联拱石桥，九孔连缀，江南明代石桥的典型代表。",
+      "pic": "putang.jpg"
+    },
+    {
+      "name": "龙江桥",
+      "lng": 119.4167,
+      "lat": 25.7167,
+      "dynasty": "北宋",
+      "type": "梁桥",
+      "address": "福建省福州市福清市龙江之上",
+      "intro": "福建四大古桥之一，福建保存最完整的宋代石梁桥。",
+      "pic": "longjiang.jpg"
+    },
+    {
+      "name": "宁海桥",
+      "lng": 119.1667,
+      "lat": 25.4500,
+      "dynasty": "元",
+      "type": "梁桥",
+      "address": "福建省莆田市木兰溪入海口",
+      "intro": "木兰溪入海口的元代古桥，可抵御海潮冲击，福建元代跨海桥梁的代表。",
+      "pic": "ninghai.jpg"
+    },
+    {
+      "name": "溪东桥",
+      "lng": 119.9500,
+      "lat": 27.5833,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县泗溪镇东溪之上",
+      "intro": "泰顺廊桥的代表之一，与北涧桥并称“姐妹桥”，全桥无钉无铆。",
+      "pic": "xidong.jpg"
+    },
+    {
+      "name": "北涧桥",
+      "lng": 119.9483,
+      "lat": 27.5850,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县泗溪镇北溪之上",
+      "intro": "泰顺廊桥的代表之一，与溪东桥并称“姐妹桥”，被誉为“世界上最美的廊桥”。",
+      "pic": "beijian.jpg"
+    },
+    {
+      "name": "三条桥",
+      "lng": 119.7333,
+      "lat": 27.4333,
+      "dynasty": "唐",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县垟溪乡交界溪之上",
+      "intro": "泰顺最古老的廊桥，始建于唐贞观年间，见证了虹桥技术的传承。",
+      "pic": "santiao.jpg"
+    },
+    {
+      "name": "文兴桥",
+      "lng": 119.8833,
+      "lat": 27.6667,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县筱村镇坑边村",
+      "intro": "泰顺廊桥中跨度较大的一座，横跨筱村溪，当地重要交通枢纽。",
+      "pic": "wenxing.jpg"
+    },
+    {
+      "name": "薛宅桥",
+      "lng": 119.8167,
+      "lat": 27.5333,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县三魁镇薛宅村",
+      "intro": "泰顺廊桥中坡度最陡的一座，桥头坡度达30度，极具特色。",
+      "pic": "xuezhai.jpg"
+    },
+    {
+      "name": "仙居桥",
+      "lng": 119.7667,
+      "lat": 27.6167,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县仙稔乡仙居村",
+      "intro": "泰顺廊桥中跨度最大的一座，净跨34.5米，浙南木拱廊桥的代表。",
+      "pic": "xianju.jpg"
+    },
+    {
+      "name": "文重桥",
+      "lng": 119.8833,
+      "lat": 27.6833,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县筱村镇东洋村",
+      "intro": "泰顺廊桥中的伸臂梁廊桥，始建于清乾隆年间。",
+      "pic": "wenzhong.jpg"
+    },
+    {
+      "name": "南阳桥",
+      "lng": 119.9667,
+      "lat": 27.5667,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县泗溪镇岩头村",
+      "intro": "泰顺廊桥中的伸臂梁廊桥，横跨泗溪，当地重要交通枢纽。",
+      "pic": "nanyang.jpg"
+    },
+    {
+      "name": "霞光桥",
+      "lng": 119.8333,
+      "lat": 27.4833,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县横坑乡华洋村",
+      "intro": "泰顺廊桥中的石拱木廊桥，始建于清雍正年间，工艺独特。",
+      "pic": "xiaguang.jpg"
+    },
+    {
+      "name": "池源桥",
+      "lng": 119.8167,
+      "lat": 27.4667,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县横坑乡池源村",
+      "intro": "泰顺廊桥中的八字撑木拱廊桥，始建于清咸丰年间。",
+      "pic": "chiyuan.jpg"
+    },
+    {
+      "name": "普宾桥",
+      "lng": 119.9167,
+      "lat": 27.4167,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县雅阳镇新久村",
+      "intro": "泰顺廊桥中的木平梁廊桥，始建于清嘉庆年间。",
+      "pic": "pubin.jpg"
+    },
+    {
+      "name": "城水桥",
+      "lng": 119.7833,
+      "lat": 27.3833,
+      "dynasty": "民国",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县龟湖镇后章岗村",
+      "intro": "泰顺廊桥中的八字撑木拱廊桥，始建于民国年间。",
+      "pic": "chengshui.jpg"
+    },
+    {
+      "name": "刘宅桥",
+      "lng": 119.8000,
+      "lat": 27.5167,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县三魁镇刘宅村",
+      "intro": "泰顺廊桥中历史最悠久的木平梁廊桥，历经600年风雨仍保存完好。",
+      "pic": "liuzhai.jpg"
+    },
+    {
+      "name": "永庆桥",
+      "lng": 119.7833,
+      "lat": 27.5500,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县三魁镇战州下溪坪村",
+      "intro": "泰顺廊桥中的伸臂梁廊桥，中间设有二层楼阁，造型别致。",
+      "pic": "yongqing.jpg"
+    },
+    {
+      "name": "毓文桥",
+      "lng": 119.6667,
+      "lat": 27.4333,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "浙江省温州市泰顺县洲岭乡洲边村",
+      "intro": "泰顺廊桥中的石拱木廊桥，三层楼阁式设计，最具艺术感。",
+      "pic": "yuwen.jpg"
+    },
+    {
+      "name": "琉璃河大桥",
+      "lng": 116.0167,
+      "lat": 39.6167,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "北京市房山区琉璃河镇",
+      "intro": "北京地区四大古桥之一，明代九孔联拱石桥，京畿重要交通枢纽。",
+      "pic": "liulihe.jpg"
+    },
+    {
+      "name": "下胡良桥",
+      "lng": 115.9833,
+      "lat": 39.5167,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "河北省保定市涿州市东仙坡镇",
+      "intro": "明代五孔联拱石桥，横跨胡良河，涿州地区重要交通枢纽。",
+      "pic": "xiahuliang.jpg"
+    },
+    {
+      "name": "方顺桥",
+      "lng": 115.3333,
+      "lat": 38.8333,
+      "dynasty": "晋",
+      "type": "拱桥",
+      "address": "河北省保定市满城区方顺桥镇",
+      "intro": "始建于晋代的三孔联拱石桥，河北地区现存最古老的石桥之一。",
+      "pic": "fangshun.jpg"
+    },
+    {
+      "name": "登瀛桥",
+      "lng": 116.8333,
+      "lat": 38.2500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "河北省沧州市沧县杜林镇",
+      "intro": "明代三孔联拱石桥，桥栏雕刻精美神话图案，北方石雕古桥代表。",
+      "pic": "dengying.jpg"
+    },
+    {
+      "name": "衡水安济桥",
+      "lng": 115.7167,
+      "lat": 37.7333,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "河北省衡水市桃城区",
+      "intro": "清代七孔联拱石桥，横跨滏阳河，乾隆皇帝赐名“安济”。",
+      "pic": "hengshui.jpg"
+    },
+    {
+      "name": "襄垣永惠桥",
+      "lng": 113.0333,
+      "lat": 36.5500,
+      "dynasty": "金",
+      "type": "拱桥",
+      "address": "山西省长治市襄垣县",
+      "intro": "金代单孔石拱桥，山西现存最古老的金代石桥之一。",
+      "pic": "yonghui.jpg"
+    },
+    {
+      "name": "平遥惠济桥",
+      "lng": 112.1833,
+      "lat": 37.2000,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "山西省晋中市平遥县",
+      "intro": "清代九孔联拱石桥，平遥古城重要交通枢纽，晋商古道节点。",
+      "pic": "huiji.jpg"
+    },
+    {
+      "name": "思本桥",
+      "lng": 120.6984,
+      "lat": 31.1568,
+      "dynasty": "南宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市吴江区同里镇",
+      "intro": "南宋单孔石拱桥，吴江现存最古老石桥之一，由诗人叶茵建造。",
+      "pic": "siben.jpg"
+    },
+    {
+      "name": "东庙桥",
+      "lng": 120.5667,
+      "lat": 31.0167,
+      "dynasty": "南宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市吴江区七都镇",
+      "intro": "南宋单孔石拱桥，吴江现存最古老石桥之一。",
+      "pic": "dongmiao.jpg"
+    },
+    {
+      "name": "迎恩桥",
+      "lng": 120.6001,
+      "lat": 30.0102,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "浙江省绍兴市越城区",
+      "intro": "绍兴明代古桥，位于古运河畔，造型优美。",
+      "pic": "yinen.jpg"
+    },
+    {
+      "name": "光相桥",
+      "lng": 120.5912,
+      "lat": 30.0155,
+      "dynasty": "东晋",
+      "type": "拱桥",
+      "address": "浙江省绍兴市越城区",
+      "intro": "浙江现存最古老的石拱桥之一，始建于东晋。",
+      "pic": "guangxiang.jpg"
+    },
+    {
+      "name": "泾口大桥",
+      "lng": 120.5700,
+      "lat": 30.0300,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "浙江省绍兴市越城区",
+      "intro": "清代三孔石拱桥，绍兴水乡经典桥梁。",
+      "pic": "jingkou.jpg"
+    },
+    {
+      "name": "通济桥",
+      "lng": 120.8000,
+      "lat": 29.9000,
+      "dynasty": "元",
+      "type": "拱桥",
+      "address": "浙江省余姚市",
+      "intro": "浙东地区最大的石拱桥，元代古桥。",
+      "pic": "tongji.jpg"
+    },
+    {
+      "name": "半山桥",
+      "lng": 119.9800,
+      "lat": 30.1500,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "浙江省建德市",
+      "intro": "宋代石拱桥，位于富春江畔。",
+      "pic": "banshan.jpg"
+    },
+    {
+      "name": "兰溪通洲桥",
+      "lng": 119.4300,
+      "lat": 29.1700,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "浙江省兰溪市",
+      "intro": "清代石拱廊桥，横跨兰江。",
+      "pic": "tongzhou.jpg"
+    },
+    {
+      "name": "熟溪桥",
+      "lng": 119.8000,
+      "lat": 28.9000,
+      "dynasty": "宋",
+      "type": "廊桥",
+      "address": "浙江省武义县",
+      "intro": "浙江中部著名廊桥，始建于宋代。",
+      "pic": "shuxi.jpg"
+    },
+    {
+      "name": "兰溪太平桥",
+      "lng": 119.4500,
+      "lat": 29.1800,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "浙江省兰溪市",
+      "intro": "明代石拱桥，兰溪古城地标。",
+      "pic": "taiping.jpg"
+    },
+    {
+      "name": "南渡桥",
+      "lng": 119.9000,
+      "lat": 30.0500,
+      "dynasty": "元",
+      "type": "拱桥",
+      "address": "浙江省桐庐县",
+      "intro": "元代石拱桥，富春江上重要古桥。",
+      "pic": "nandu.jpg"
+    },
+    {
+      "name": "寿昌桥",
+      "lng": 119.4000,
+      "lat": 29.4000,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "浙江省建德市",
+      "intro": "宋代石拱桥，浙江省级文保单位。",
+      "pic": "shouchang.jpg"
+    },
+    {
+      "name": "普庆桥",
+      "lng": 119.3000,
+      "lat": 29.6000,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "浙江省淳安县",
+      "intro": "宋代石拱桥，千岛湖流域古桥代表。",
+      "pic": "puqing.jpg"
+    },
+    {
+      "name": "福庆桥",
+      "lng": 119.2500,
+      "lat": 29.6500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "浙江省淳安县",
+      "intro": "明代石拱桥，千岛湖流域古桥。",
+      "pic": "fuqing.jpg"
+    },
+    {
+      "name": "文昌桥",
+      "lng": 116.3500,
+      "lat": 27.9800,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江西省抚州市",
+      "intro": "江西抚州标志性古桥，始建于宋代。",
+      "pic": "wenchang.jpg"
+    },
+    {
+      "name": "上清桥",
+      "lng": 117.2000,
+      "lat": 28.0500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江西省贵溪市",
+      "intro": "明代石拱桥，龙虎山景区古桥。",
+      "pic": "shangqing.jpg"
+    },
+    {
+      "name": "横龙桥",
+      "lng": 114.9000,
+      "lat": 27.1000,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江西省萍乡市",
+      "intro": "宋代石拱桥，萍乡地区最古老桥梁。",
+      "pic": "henglong.jpg"
+    },
+    {
+      "name": "南津桥",
+      "lng": 115.0000,
+      "lat": 27.0500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江西省萍乡市",
+      "intro": "明代石拱桥，萍乡古城重要通道。",
+      "pic": "nanjin.jpg"
+    },
+    {
+      "name": "通仙桥",
+      "lng": 117.5000,
+      "lat": 26.1500,
+      "dynasty": "宋",
+      "type": "廊桥",
+      "address": "福建省尤溪县",
+      "intro": "宋代木拱廊桥，福建闽中廊桥代表。",
+      "pic": "tongxian.jpg"
+    },
+    {
+      "name": "白鹤桥",
+      "lng": 117.6000,
+      "lat": 26.2000,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "福建省尤溪县",
+      "intro": "明代廊桥，闽中地区经典古桥。",
+      "pic": "baihe.jpg"
+    },
+    {
+      "name": "金沙桥",
+      "lng": 118.1000,
+      "lat": 26.5000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省闽清县",
+      "intro": "宋代石梁桥，闽江流域古桥。",
+      "pic": "jinsha.jpg"
+    },
+    {
+      "name": "闽清合龙桥",
+      "lng": 118.1500,
+      "lat": 26.4500,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省闽清县",
+      "intro": "宋代石梁桥，闽清地标古桥。",
+      "pic": "helong.jpg"
+    },
+    {
+      "name": "坪桥",
+      "lng": 118.2000,
+      "lat": 26.3000,
+      "dynasty": "明",
+      "type": "梁桥",
+      "address": "福建省闽清县",
+      "intro": "明代石梁桥，闽清乡村古桥代表。",
+      "pic": "pingqiao.jpg"
+    },
+    {
+      "name": "惠政桥",
+      "lng": 117.9000,
+      "lat": 25.8000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省永泰县",
+      "intro": "宋代石梁桥，永泰地区最古老桥梁。",
+      "pic": "huizheng.jpg"
+    },
+    {
+      "name": "洛阳桥（莆田）",
+      "lng": 119.0000,
+      "lat": 25.4300,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省莆田市",
+      "intro": "莆田宋代石梁桥，与泉州洛阳桥同名。",
+      "pic": "putianluoyang.jpg"
+    },
+    {
+      "name": "江口桥",
+      "lng": 119.0500,
+      "lat": 25.5000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省莆田市",
+      "intro": "宋代石梁桥，莆田江口地标。",
+      "pic": "jiangkou.jpg"
+    },
+    {
+      "name": "萩芦桥",
+      "lng": 119.1000,
+      "lat": 25.5500,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省莆田市",
+      "intro": "宋代石梁桥，横跨萩芦溪。",
+      "pic": "qiulu.jpg"
+    },
+    {
+      "name": "延寿桥",
+      "lng": 119.0800,
+      "lat": 25.4800,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省莆田市",
+      "intro": "宋代石梁桥，莆田延寿溪畔古桥。",
+      "pic": "yanshou.jpg"
+    },
+    {
+      "name": "石马桥",
+      "lng": 118.9500,
+      "lat": 25.3800,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省仙游县",
+      "intro": "宋代石梁桥，仙游地区经典古桥。",
+      "pic": "shima.jpg"
+    },
+    {
+      "name": "金凤桥",
+      "lng": 118.9000,
+      "lat": 25.3500,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省仙游县",
+      "intro": "宋代石梁桥，仙游地标古桥。",
+      "pic": "jinfeng.jpg"
+    },
+    {
+      "name": "东门石坊桥",
+      "lng": 118.8500,
+      "lat": 25.3200,
+      "dynasty": "明",
+      "type": "梁桥",
+      "address": "福建省仙游县",
+      "intro": "明代石梁桥，仙游古城东门古桥。",
+      "pic": "dongmen.jpg"
+    },
+    {
+      "name": "会仙桥",
+      "lng": 118.8000,
+      "lat": 25.3000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省仙游县",
+      "intro": "宋代石梁桥，仙游会仙村古桥。",
+      "pic": "huixian.jpg"
+    },
+    {
+      "name": "龙兴桥",
+      "lng": 117.3000,
+      "lat": 26.3000,
+      "dynasty": "明",
+      "type": "廊桥",
+      "address": "福建省大田县",
+      "intro": "明代廊桥，闽中山区古桥代表。",
+      "pic": "longxing.jpg"
+    },
+    {
+      "name": "泰安桥",
+      "lng": 117.3500,
+      "lat": 26.3500,
+      "dynasty": "清",
+      "type": "廊桥",
+      "address": "福建省大田县",
+      "intro": "清代廊桥，大田县标志性古桥。",
+      "pic": "taian.jpg"
+    },
+    {
+      "name": "永兴桥",
+      "lng": 113.8000,
+      "lat": 22.6000,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省宝安县",
+      "intro": "广东深圳地区最古老石拱桥。",
+      "pic": "yongxing.jpg"
+    },
+    {
+      "name": "文塔桥",
+      "lng": 113.7500,
+      "lat": 22.6500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省宝安县",
+      "intro": "明代石拱桥，深圳西部古桥代表。",
+      "pic": "wenta.jpg"
+    },
+    {
+      "name": "观澜古桥",
+      "lng": 114.0500,
+      "lat": 22.7500,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳观澜地标。",
+      "pic": "guanlan.jpg"
+    },
+    {
+      "name": "回龙桥",
+      "lng": 114.1000,
+      "lat": 22.7000,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳龙岗古桥。",
+      "pic": "huilong.jpg"
+    },
+    {
+      "name": "福永桥",
+      "lng": 113.7000,
+      "lat": 22.6000,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳福永古桥。",
+      "pic": "fuyong.jpg"
+    },
+    {
+      "name": "沙井桥",
+      "lng": 113.6500,
+      "lat": 22.5800,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳沙井古桥代表。",
+      "pic": "shajing.jpg"
+    },
+    {
+      "name": "松岗桥",
+      "lng": 113.6000,
+      "lat": 22.5500,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳松岗地标古桥。",
+      "pic": "songgang.jpg"
+    },
+    {
+      "name": "公明桥",
+      "lng": 113.9000,
+      "lat": 22.7000,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳公明古桥。",
+      "pic": "gongming.jpg"
+    },
+    {
+      "name": "光明桥",
+      "lng": 113.9500,
+      "lat": 22.7200,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳光明古桥代表。",
+      "pic": "guangming.jpg"
+    },
+    {
+      "name": "坪地桥",
+      "lng": 114.1500,
+      "lat": 22.7800,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳坪地古桥。",
+      "pic": "pingdi.jpg"
+    },
+    {
+      "name": "坑梓桥",
+      "lng": 114.2000,
+      "lat": 22.8000,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳坑梓地标古桥。",
+      "pic": "kengzi.jpg"
+    },
+    {
+      "name": "坪山桥",
+      "lng": 114.2500,
+      "lat": 22.7500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳坪山古桥代表。",
+      "pic": "pingshan.jpg"
+    },
+    {
+      "name": "葵涌桥",
+      "lng": 114.3000,
+      "lat": 22.6800,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳葵涌古桥。",
+      "pic": "kuichong.jpg"
+    },
+    {
+      "name": "大鹏桥",
+      "lng": 114.3500,
+      "lat": 22.6500,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "明代石拱桥，深圳大鹏所城古桥。",
+      "pic": "dapeng.jpg"
+    },
+    {
+      "name": "南澳桥",
+      "lng": 114.4000,
+      "lat": 22.6000,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省深圳市",
+      "intro": "清代石拱桥，深圳南澳古桥代表。",
+      "pic": "nanao.jpg"
+    },
+    {
+      "name": "东山桥",
+      "lng": 116.6500,
+      "lat": 23.6800,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "宋代石拱桥，潮州东山湖畔古桥。",
+      "pic": "dongshan.jpg"
+    },
+    {
+      "name": "北关桥",
+      "lng": 116.6300,
+      "lat": 23.6700,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "明代石拱桥，潮州北关古桥。",
+      "pic": "beiguan.jpg"
+    },
+    {
+      "name": "南关桥",
+      "lng": 116.6200,
+      "lat": 23.6500,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "清代石拱桥，潮州南关古桥。",
+      "pic": "nanguan.jpg"
+    },
+    {
+      "name": "西关桥",
+      "lng": 116.6100,
+      "lat": 23.6600,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "明代石拱桥，潮州西关古桥。",
+      "pic": "xiguan.jpg"
+    },
+    {
+      "name": "东门桥",
+      "lng": 116.6400,
+      "lat": 23.6600,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "清代石拱桥，潮州东门古桥。",
+      "pic": "dongmenqiao.jpg"
+    },
+    {
+      "name": "西门桥",
+      "lng": 116.6000,
+      "lat": 23.6700,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "明代石拱桥，潮州西门古桥。",
+      "pic": "ximen.jpg"
+    },
+    {
+      "name": "南门桥",
+      "lng": 116.6200,
+      "lat": 23.6400,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "清代石拱桥，潮州南门古桥。",
+      "pic": "nanmen.jpg"
+    },
+    {
+      "name": "北门桥",
+      "lng": 116.6300,
+      "lat": 23.6800,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "明代石拱桥，潮州北门古桥。",
+      "pic": "beimen.jpg"
+    },
+    {
+      "name": "中山桥",
+      "lng": 116.6500,
+      "lat": 23.6700,
+      "dynasty": "民国",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "民国石拱桥，潮州韩江古桥。",
+      "pic": "zhongshan.jpg"
+    },
+    {
+      "name": "韩江桥",
+      "lng": 116.6600,
+      "lat": 23.6600,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "广东省潮州市",
+      "intro": "宋代石拱桥，横跨韩江的古老桥梁。",
+      "pic": "hanjiang.jpg"
+    },
+    {
+      "name": "江村桥",
+      "lng": 120.6100,
+      "lat": 31.3300,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "唐代石拱桥，与枫桥相邻，姑苏名桥。",
+      "pic": "jiangcun.jpg"
+    },
+    {
+      "name": "乌鹊桥",
+      "lng": 120.6300,
+      "lat": 31.3100,
+      "dynasty": "春秋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "苏州最古老桥梁之一，始建于春秋时期。",
+      "pic": "wuque.jpg"
+    },
+    {
+      "name": "星桥",
+      "lng": 120.6200,
+      "lat": 31.3200,
+      "dynasty": "汉",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "汉代古桥，苏州城内历史悠久的桥梁。",
+      "pic": "xingqiao.jpg"
+    },
+    {
+      "name": "乘鱼桥",
+      "lng": 120.6400,
+      "lat": 31.3000,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "唐代石拱桥，苏州典故名桥。",
+      "pic": "chengyu.jpg"
+    },
+    {
+      "name": "饮马桥",
+      "lng": 120.6350,
+      "lat": 31.3050,
+      "dynasty": "晋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "晋代古桥，苏州城内知名古桥。",
+      "pic": "yinma.jpg"
+    },
+    {
+      "name": "乐桥",
+      "lng": 120.6250,
+      "lat": 31.3150,
+      "dynasty": "吴",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "三国东吴古桥，苏州古城中心桥梁。",
+      "pic": "leqiao.jpg"
+    },
+    {
+      "name": "言桥",
+      "lng": 120.6200,
+      "lat": 31.3100,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城古桥。",
+      "pic": "yanqiao.jpg"
+    },
+    {
+      "name": "王洗马桥",
+      "lng": 120.6150,
+      "lat": 31.3150,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州古城街巷古桥。",
+      "pic": "wangxianma.jpg"
+    },
+    {
+      "name": "醋坊桥",
+      "lng": 120.6300,
+      "lat": 31.3120,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州观前街地标古桥。",
+      "pic": "cufang.jpg"
+    },
+    {
+      "name": "落瓜桥",
+      "lng": 120.6280,
+      "lat": 31.3130,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "唐代石拱桥，苏州典故名桥。",
+      "pic": "luogua.jpg"
+    },
+    {
+      "name": "碧凤桥",
+      "lng": 120.6320,
+      "lat": 31.3110,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州古城精致古桥。",
+      "pic": "bifeng.jpg"
+    },
+    {
+      "name": "胡厢使桥",
+      "lng": 120.6310,
+      "lat": 31.3140,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州平江路古桥。",
+      "pic": "huxiangshi.jpg"
+    },
+    {
+      "name": "唐家桥",
+      "lng": 120.6330,
+      "lat": 31.3150,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州平江路经典古桥。",
+      "pic": "tangjia.jpg"
+    },
+    {
+      "name": "雪糕桥",
+      "lng": 120.6340,
+      "lat": 31.3160,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州平江路古桥代表。",
+      "pic": "xuegao.jpg"
+    },
+    {
+      "name": "师婆桥",
+      "lng": 120.6350,
+      "lat": 31.3170,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城古桥。",
+      "pic": "shipo.jpg"
+    },
+    {
+      "name": "朱马交桥",
+      "lng": 120.6360,
+      "lat": 31.3180,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州古城街巷古桥。",
+      "pic": "zhumajiao.jpg"
+    },
+    {
+      "name": "通利桥",
+      "lng": 120.6370,
+      "lat": 31.3190,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州平江路古桥。",
+      "pic": "tongli.jpg"
+    },
+    {
+      "name": "小红桥",
+      "lng": 120.6380,
+      "lat": 31.3200,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城小巧古桥。",
+      "pic": "xiaohong.jpg"
+    },
+    {
+      "name": "大新桥",
+      "lng": 120.6390,
+      "lat": 31.3210,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州古城新古桥。",
+      "pic": "daxin.jpg"
+    },
+    {
+      "name": "张香桥",
+      "lng": 120.6400,
+      "lat": 31.3220,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州古城典故名桥。",
+      "pic": "zhangxiang.jpg"
+    },
+    {
+      "name": "官太尉桥",
+      "lng": 120.6410,
+      "lat": 31.3230,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城官署古桥。",
+      "pic": "guantaiwei.jpg"
+    },
+    {
+      "name": "吴王桥",
+      "lng": 120.6420,
+      "lat": 31.3240,
+      "dynasty": "吴",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "三国东吴古桥，苏州古城历史名桥。",
+      "pic": "wuwang.jpg"
+    },
+    {
+      "name": "寿星桥",
+      "lng": 120.6430,
+      "lat": 31.3250,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城长寿古桥。",
+      "pic": "shouxing.jpg"
+    },
+    {
+      "name": "百狮子桥",
+      "lng": 120.6440,
+      "lat": 31.3260,
+      "dynasty": "元",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "元代石拱桥，桥栏雕刻百只狮子。",
+      "pic": "baishizi.jpg"
+    },
+    {
+      "name": "望星桥",
+      "lng": 120.6450,
+      "lat": 31.3270,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "唐代石拱桥，苏州古城观星古桥。",
+      "pic": "wangxing.jpg"
+    },
+    {
+      "name": "凤凰桥",
+      "lng": 120.6460,
+      "lat": 31.3280,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州古城凤凰古桥。",
+      "pic": "fenghuang.jpg"
+    },
+    {
+      "name": "青龙桥",
+      "lng": 120.6470,
+      "lat": 31.3290,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州古城祥瑞古桥。",
+      "pic": "qinglong.jpg"
+    },
+    {
+      "name": "白虎桥",
+      "lng": 120.6480,
+      "lat": 31.3300,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城四象古桥。",
+      "pic": "baihu.jpg"
+    },
+    {
+      "name": "朱雀桥",
+      "lng": 120.6490,
+      "lat": 31.3310,
+      "dynasty": "吴",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "三国东吴古桥，苏州古城四象古桥。",
+      "pic": "zhuque.jpg"
+    },
+    {
+      "name": "玄武桥",
+      "lng": 120.6500,
+      "lat": 31.3320,
+      "dynasty": "晋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "晋代古桥，苏州古城四象古桥。",
+      "pic": "xuanwu.jpg"
+    },
+    {
+      "name": "乾坤桥",
+      "lng": 120.6510,
+      "lat": 31.3330,
+      "dynasty": "唐",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "唐代石拱桥，苏州古城道家古桥。",
+      "pic": "qiankun.jpg"
+    },
+    {
+      "name": "阴阳桥",
+      "lng": 120.6520,
+      "lat": 31.3340,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城哲理古桥。",
+      "pic": "yinyang.jpg"
+    },
+    {
+      "name": "五行桥",
+      "lng": 120.6530,
+      "lat": 31.3350,
+      "dynasty": "明",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "明代石拱桥，苏州古城五行古桥。",
+      "pic": "wuxing.jpg"
+    },
+    {
+      "name": "八卦桥",
+      "lng": 120.6540,
+      "lat": 31.3360,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州古城八卦古桥。",
+      "pic": "bagua.jpg"
+    },
+    {
+      "name": "九宫桥",
+      "lng": 120.6550,
+      "lat": 31.3370,
+      "dynasty": "宋",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "宋代石拱桥，苏州古城九宫古桥。",
+      "pic": "jiugong.jpg"
+    },
+    {
+      "name": "十全桥",
+      "lng": 120.6560,
+      "lat": 31.3380,
+      "dynasty": "清",
+      "type": "拱桥",
+      "address": "江苏省苏州市",
+      "intro": "清代石拱桥，苏州古城十全古桥。",
+      "pic": "shiquan.jpg"
+    },
+    {
+      "name": "万安桥",
+      "lng": 118.5800,
+      "lat": 24.8000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州洛阳桥附属古桥。",
+      "pic": "wanan.jpg"
+    },
+    {
+      "name": "顺济桥",
+      "lng": 118.5900,
+      "lat": 24.8100,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城南门古桥。",
+      "pic": "shunji.jpg"
+    },
+    {
+      "name": "德济桥",
+      "lng": 118.6000,
+      "lat": 24.8200,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城德济门古桥。",
+      "pic": "deji.jpg"
+    },
+    {
+      "name": "临漳桥",
+      "lng": 118.6100,
+      "lat": 24.8300,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城临漳门古桥。",
+      "pic": "linzhang.jpg"
+    },
+    {
+      "name": "通淮桥",
+      "lng": 118.6200,
+      "lat": 24.8400,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城通淮门古桥。",
+      "pic": "tonghuai.jpg"
+    },
+    {
+      "name": "仁风门桥",
+      "lng": 118.6300,
+      "lat": 24.8500,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城仁风门古桥。",
+      "pic": "renfeng.jpg"
+    },
+    {
+      "name": "义城门桥",
+      "lng": 118.6400,
+      "lat": 24.8600,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城义城门古桥。",
+      "pic": "yicheng.jpg"
+    },
+    {
+      "name": "礼城门桥",
+      "lng": 118.6500,
+      "lat": 24.8700,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城礼城门古桥。",
+      "pic": "licheng.jpg"
+    },
+    {
+      "name": "智城门桥",
+      "lng": 118.6600,
+      "lat": 24.8800,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城智城门古桥。",
+      "pic": "zhicheng.jpg"
+    },
+    {
+      "name": "信城门桥",
+      "lng": 118.6700,
+      "lat": 24.8900,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城信城门古桥。",
+      "pic": "xincheng.jpg"
+    },
+    {
+      "name": "朝天桥",
+      "lng": 118.6800,
+      "lat": 24.9000,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城朝天门古桥。",
+      "pic": "chaotian.jpg"
+    },
+    {
+      "name": "金凤桥（泉州）",
+      "lng": 118.6900,
+      "lat": 24.9100,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城金凤门古桥。",
+      "pic": "quanzhoujinfeng.jpg"
+    },
+    {
+      "name": "玉龙桥",
+      "lng": 118.7000,
+      "lat": 24.9200,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城玉龙门古桥。",
+      "pic": "yulong.jpg"
+    },
+    {
+      "name": "金乌桥",
+      "lng": 118.7100,
+      "lat": 24.9300,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城金乌门古桥。",
+      "pic": "jinwu.jpg"
+    },
+    {
+      "name": "玉兔桥",
+      "lng": 118.7200,
+      "lat": 24.9400,
+      "dynasty": "宋",
+      "type": "梁桥",
+      "address": "福建省泉州市",
+      "intro": "宋代石梁桥，泉州古城玉兔门古桥。",
+      "pic": "yutu.jpg"
+    }
+  ],
+  "roads": [
+  {
+    "name": "丝绸之路",
+    "period": "汉-唐",
+    "description": "古代东西方文明交流大动脉，商贸、文化、技术传播核心通道，串联无数名桥。",
+    "start": "长安（西安）",
+    "end": "西域及欧洲",
+    "length": "数千公里",
+    "bridges": [
+      {
+        "id": 1,
+        "name": "洛阳桥",
+        "dynasty": "宋",
+        "type": "梁桥",
+        "location": "福建·泉州",
+        "description": "古代跨海建桥巅峰之作，种蛎固基法世界首创。",
+        "image": "luoyang.jpg"
+      },
+      {
+        "id": 2,
+        "name": "卢沟桥",
+        "dynasty": "金",
+        "type": "拱桥",
+        "location": "北京·丰台",
+        "description": "华北名桥，石刻艺术博物馆，见证千年历史。",
+        "image": "lugou.jpg"
+      },
+      {
+        "id": 12,
+        "name": "赵州桥",
+        "dynasty": "隋",
+        "type": "拱桥",
+        "location": "河北·赵县",
+        "description": "世界最早敞肩石拱桥，中原陆路交通咽喉。",
+        "image": "zhaozhou.jpg"
+      },
+      {
+        "id": 13,
+        "name": "小商桥",
+        "dynasty": "隋",
+        "type": "拱桥",
+        "location": "河南·临颍",
+        "description": "早于赵州桥的隋代古桥，中原丝路要道节点。",
+        "image": "xiaoshang.jpg"
+      },
+      {
+        "id": 14,
+        "name": "灞陵桥",
+        "dynasty": "明",
+        "type": "拱桥",
+        "location": "甘肃·渭源",
+        "description": "西北木拱活化石，通往西域的重要关口。",
+        "image": "baling.jpg"
+      }
+    ]
+  },
+  {
+    "name": "京杭古道",
+    "period": "隋-清",
+    "description": "中国古代南北水运与陆路交通大动脉，贯穿南北，桥随河布。",
+    "start": "北京",
+    "end": "杭州",
+    "length": "约1794公里",
+    "bridges": [
+      {
+        "id": 3,
+        "name": "宝带桥",
+        "dynasty": "唐",
+        "type": "拱桥",
+        "location": "江苏·苏州",
+        "description": "中国最长多孔石拱桥，运河咽喉工程。",
+        "image": "baodai.jpg"
+      },
+      {
+        "id": 4,
+        "name": "五亭桥",
+        "dynasty": "清",
+        "type": "拱桥",
+        "location": "江苏·扬州",
+        "description": "莲花桥，中国最美古桥之一。",
+        "image": "wuting.jpg"
+      },
+      {
+        "id": 15,
+        "name": "银锭桥",
+        "dynasty": "明",
+        "type": "梁桥",
+        "location": "北京·西城",
+        "description": "京杭古道北端地标，银锭观山名胜。",
+        "image": "yinding.jpg"
+      },
+      {
+        "id": 16,
+        "name": "枫桥",
+        "dynasty": "唐",
+        "type": "梁桥",
+        "location": "江苏·苏州",
+        "description": "运河名桥，因《枫桥夜泊》名扬天下。",
+        "image": "fengqiao.jpg"
+      },
+      {
+        "id": 17,
+        "name": "二十四桥",
+        "dynasty": "清",
+        "type": "拱桥",
+        "location": "江苏·扬州",
+        "description": "运河沿线名桥，因杜牧诗句千古流传。",
+        "image": "ershisiqiao.jpg"
+      },
+      {
+        "id": 18,
+        "name": "八字桥",
+        "dynasty": "宋",
+        "type": "梁桥",
+        "location": "浙江·绍兴",
+        "description": "运河水乡典范，古代立体交通设计杰作。",
+        "image": "bazidao.jpg"
+      },
+      {
+        "id": 19,
+        "name": "杭州断桥",
+        "dynasty": "明",
+        "type": "梁桥",
+        "location": "浙江·杭州",
+        "description": "京杭古道南端标志，西湖十景之一。",
+        "image": "duanqiao.jpg"
+      }
+    ]
+  },
+  {
+    "name": "闽粤古道",
+    "period": "宋-清",
+    "description": "东南沿海商贸通道，连接福建、广东，海上丝绸之路重要内陆线。",
+    "start": "福建泉州",
+    "end": "广东广州",
+    "length": "约1000公里",
+    "bridges": [
+      {
+        "id": 5,
+        "name": "广济桥",
+        "dynasty": "南宋",
+        "type": "浮桥",
+        "location": "广东·潮州",
+        "description": "世界最早启闭式桥梁，开合式设计奇迹。",
+        "image": "guangji.jpg"
+      },
+      {
+        "id": 6,
+        "name": "安平桥",
+        "dynasty": "南宋",
+        "type": "梁桥",
+        "location": "福建·晋江",
+        "description": "古代天下第一长桥，“天下无桥长此桥”。",
+        "image": "anping.jpg"
+      },
+      {
+        "id": 7,
+        "name": "江东桥",
+        "dynasty": "宋",
+        "type": "梁桥",
+        "location": "福建·漳州",
+        "description": "巨型石梁建造奇迹，闽粤通道关键工程。",
+        "image": "jiangdong.jpg"
+      },
+      {
+        "id": 20,
+        "name": "龙江桥",
+        "dynasty": "北宋",
+        "type": "梁桥",
+        "location": "福建·福清",
+        "description": "福建四大宋桥之一，闽中沿海交通要道。",
+        "image": "longjiang.jpg"
+      },
+      {
+        "id": 21,
+        "name": "宁海桥",
+        "dynasty": "元",
+        "type": "梁桥",
+        "location": "福建·莆田",
+        "description": "抵御海潮的元代跨海桥，闽粤咽喉。",
+        "image": "ninghai.jpg"
+      },
+      {
+        "id": 22,
+        "name": "永兴桥",
+        "dynasty": "清",
+        "type": "拱桥",
+        "location": "广东·深圳",
+        "description": "粤东最古老石拱桥，闽粤古道末端节点。",
+        "image": "yongxing.jpg"
+      }
+    ]
+  },
+  {
+    "name": "川藏古道",
+    "period": "清",
+    "description": "西南高原重要通道，地势险峻，桥梁多为索桥、危桥。",
+    "start": "四川成都",
+    "end": "西藏拉萨",
+    "length": "约2000公里",
+    "bridges": [
+      {
+        "id": 8,
+        "name": "泸定桥",
+        "dynasty": "清",
+        "type": "索桥",
+        "location": "四川·泸定",
+        "description": "铁索桥巅峰，大渡河天险通途。",
+        "image": "luding.jpg"
+      },
+      {
+        "id": 23,
+        "name": "安澜索桥",
+        "dynasty": "汉",
+        "type": "索桥",
+        "location": "四川·都江堰",
+        "description": "川藏古道起点，岷江天险古老通道。",
+        "image": "anlan.jpg"
+      },
+      {
+        "id": 24,
+        "name": "安顺廊桥",
+        "dynasty": "清",
+        "type": "廊桥",
+        "location": "四川·成都",
+        "description": "川西廊桥代表，川藏线起点重要标志。",
+        "image": "anshun.jpg"
+      },
+      {
+        "id": 25,
+        "name": "龙脑桥",
+        "dynasty": "明",
+        "type": "梁桥",
+        "location": "四川·泸县",
+        "description": "川南石雕名桥，入藏必经陆路要道。",
+        "image": "longnao.jpg"
+      }
+    ]
+  },
+  {
+    "name": "茶马古道",
+    "period": "唐-清",
+    "description": "西南地区以马帮为主要运输工具的民间国际商贸通道，连接川滇藏，延伸入不丹、尼泊尔、印度等地，是汉藏文化交流的重要纽带。",
+    "start": "四川雅安/云南普洱",
+    "end": "西藏拉萨/缅甸/印度",
+    "length": "数千公里",
+    "bridges": [
+      {
+        "id": 26,
+        "name": "程阳永济桥",
+        "dynasty": "民国",
+        "type": "廊桥",
+        "location": "广西·三江",
+        "description": "侗族木构廊桥典范，茶马古道支线重要节点。",
+        "image": "chengyang.jpg"
+      },
+      {
+        "id": 27,
+        "name": "泰顺泗溪东桥",
+        "dynasty": "清",
+        "type": "廊桥",
+        "location": "浙江·泰顺",
+        "description": "浙南廊桥代表，茶叶运输必经之路。",
+        "image": "sixidong.jpg"
+      },
+      {
+        "id": 28,
+        "name": "如龙桥",
+        "dynasty": "明",
+        "type": "廊桥",
+        "location": "浙江·庆元",
+        "description": "处州廊桥核心代表，明代木拱廊桥，全桥无钉无铆。",
+        "image": "rulong.jpg"
+      },
+      {
+        "id": 29,
+        "name": "安澜索桥",
+        "dynasty": "汉",
+        "type": "索桥",
+        "location": "四川·都江堰",
+        "description": "茶马古道起点重要通道，世界最早索桥之一。",
+        "image": "anlan.jpg"
+      }
+    ]
+  },
+  {
+    "name": "唐蕃古道",
+    "period": "唐-清",
+    "description": "连接中原与西藏的重要通道，从陕西西安出发，途经甘肃、青海，到达西藏拉萨，全长3000多千米，拥有1300多年历史，是唐代文成公主入藏之路。",
+    "start": "陕西西安",
+    "end": "西藏拉萨",
+    "length": "约3000公里",
+    "bridges": [
+      {
+        "id": 30,
+        "name": "双龙桥",
+        "dynasty": "清",
+        "type": "拱桥",
+        "location": "云南·建水",
+        "description": "滇南名桥，十七孔石拱桥，桥上建有三座楼阁，造型独特。",
+        "image": "shuanglong.jpg"
+      },
+      {
+        "id": 31,
+        "name": "葛镜桥",
+        "dynasty": "明",
+        "type": "拱桥",
+        "location": "贵州·福泉",
+        "description": "西南桥梁之冠，横跨麻哈江绝壁，入藏要道。",
+        "image": "gejing.jpg"
+      },
+      {
+        "id": 32,
+        "name": "泸定桥",
+        "dynasty": "清",
+        "type": "索桥",
+        "location": "四川·泸定",
+        "description": "大渡河天险通途，唐蕃古道与川藏古道交汇点。",
+        "image": "luding.jpg"
+      }
+    ]
+  },
+  {
+    "name": "秦直道",
+    "period": "秦-汉",
+    "description": "秦始皇统一六国后修建的军事要道，从咸阳出发，经甘肃、宁夏，直达内蒙古包头，被誉为中国最早的“高速公路”，主要用于军队快速调动和物资运输。",
+    "start": "陕西咸阳",
+    "end": "内蒙古包头",
+    "length": "约700公里",
+    "bridges": [
+      {
+        "id": 33,
+        "name": "赵州桥",
+        "dynasty": "隋",
+        "type": "拱桥",
+        "location": "河北·赵县",
+        "description": "世界最早敞肩石拱桥，秦直道支线重要桥梁。",
+        "image": "zhaozhou.jpg"
+      },
+      {
+        "id": 34,
+        "name": "单桥",
+        "dynasty": "明",
+        "type": "拱桥",
+        "location": "河北·沧州",
+        "description": "明代九孔联拱石桥，北方交通要道。",
+        "image": "shanqiao.jpg"
+      },
+      {
+        "id": 35,
+        "name": "弘济桥",
+        "dynasty": "明",
+        "type": "拱桥",
+        "location": "河北·邯郸",
+        "description": "冀南赵州桥，秦直道与太行古道交汇点。",
+        "image": "hongji.jpg"
+      }
+    ]
+  },
+  {
+    "name": "蜀道（秦蜀古道）",
+    "period": "周-清",
+    "description": "穿越秦巴山地的秦蜀相通之路，是关中平原通往四川盆地的7条主道路(子午道、傥骆道、褒斜道、故道、金牛道、米仓道、荔枝道)的统称，历史上曾先后易名为周道、秦道、蜀道。",
+    "start": "陕西西安/宝鸡",
+    "end": "四川成都",
+    "length": "数百至一千公里不等",
+    "bridges": [
+      {
+        "id": 36,
+        "name": "安澜索桥",
+        "dynasty": "汉",
+        "type": "索桥",
+        "location": "四川·都江堰",
+        "description": "蜀道终点重要标志，岷江天险通道。",
+        "image": "anlan.jpg"
+      },
+      {
+        "id": 37,
+        "name": "安顺廊桥",
+        "dynasty": "清",
+        "type": "廊桥",
+        "location": "四川·成都",
+        "description": "川西廊桥代表，蜀道终点标志性建筑。",
+        "image": "anshun.jpg"
+      },
+      {
+        "id": 38,
+        "name": "龙脑桥",
+        "dynasty": "明",
+        "type": "梁桥",
+        "location": "四川·泸县",
+        "description": "川南石雕名桥，蜀道南路重要节点。",
+        "image": "longnao.jpg"
+      },
+      {
+        "id": 39,
+        "name": "灞陵桥",
+        "dynasty": "明",
+        "type": "拱桥",
+        "location": "甘肃·渭源",
+        "description": "蜀道与丝绸之路交汇点，木拱活化石。",
+        "image": "baling.jpg"
+      }
+    ]
+  },
+  {
+    "name": "徽杭古道",
+    "period": "宋-清",
+    "description": "连接徽州与杭州的重要纽带，西起徽州绩溪县伏岭镇，东至浙江省临安市马啸乡，全长25千米，是古时徽商和浙商互通贸易的重要通道。",
+    "start": "安徽绩溪",
+    "end": "浙江临安",
+    "length": "约25公里",
+    "bridges": [
+      {
+        "id": 40,
+        "name": "清华彩虹桥",
+        "dynasty": "南宋",
+        "type": "廊桥",
+        "location": "江西·婺源",
+        "description": "古徽州最具代表性的廊桥之一，徽杭古道支线重要节点。",
+        "image": "caihong.jpg"
+      },
+      {
+        "id": 41,
+        "name": "思本桥",
+        "dynasty": "南宋",
+        "type": "拱桥",
+        "location": "江苏·苏州",
+        "description": "江南古桥代表，徽杭古道延伸段重要节点。",
+        "image": "siben.jpg"
+      },
+      {
+        "id": 42,
+        "name": "东庙桥",
+        "dynasty": "南宋",
+        "type": "拱桥",
+        "location": "江苏·苏州",
+        "description": "吴江现存最古老石桥之一，丝绸贸易通道。",
+        "image": "dongmiao.jpg"
+      }
+    ]
+  }
+]
+}
